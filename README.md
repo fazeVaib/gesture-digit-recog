@@ -22,6 +22,6 @@ Recognize the digits in real-time through shapes made in front of camera
 * The model is pre-trained and saved, but you can also train it with your own data.<br> 
 * Run file 'camera_pred.py' in terminal.
 <br>
-* Use a green object to draw the shapes of digit.
+* Use a green object to draw the digits in front of camera.
 <br>
 * press 'C' to clear the input and 'Q' to quit the program. 
